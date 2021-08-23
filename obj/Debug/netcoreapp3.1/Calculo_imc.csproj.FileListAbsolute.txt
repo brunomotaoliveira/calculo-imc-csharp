@@ -1,0 +1,17 @@
+C:\Users\Generation\Documents\DOTNET\Calculo_imc\Calculo_imc\bin\Debug\netcoreapp3.1\Calculo_imc.exe
+C:\Users\Generation\Documents\DOTNET\Calculo_imc\Calculo_imc\bin\Debug\netcoreapp3.1\Calculo_imc.deps.json
+C:\Users\Generation\Documents\DOTNET\Calculo_imc\Calculo_imc\bin\Debug\netcoreapp3.1\Calculo_imc.runtimeconfig.json
+C:\Users\Generation\Documents\DOTNET\Calculo_imc\Calculo_imc\bin\Debug\netcoreapp3.1\Calculo_imc.runtimeconfig.dev.json
+C:\Users\Generation\Documents\DOTNET\Calculo_imc\Calculo_imc\bin\Debug\netcoreapp3.1\Calculo_imc.dll
+C:\Users\Generation\Documents\DOTNET\Calculo_imc\Calculo_imc\bin\Debug\netcoreapp3.1\Calculo_imc.pdb
+C:\Users\Generation\Documents\DOTNET\Calculo_imc\Calculo_imc\obj\Debug\netcoreapp3.1\Calculo_imc.csproj.AssemblyReference.cache
+C:\Users\Generation\Documents\DOTNET\Calculo_imc\Calculo_imc\obj\Debug\netcoreapp3.1\Calculo_imc.Form1.resources
+C:\Users\Generation\Documents\DOTNET\Calculo_imc\Calculo_imc\obj\Debug\netcoreapp3.1\Calculo_imc.Properties.Resources.resources
+C:\Users\Generation\Documents\DOTNET\Calculo_imc\Calculo_imc\obj\Debug\netcoreapp3.1\Calculo_imc.csproj.GenerateResource.cache
+C:\Users\Generation\Documents\DOTNET\Calculo_imc\Calculo_imc\obj\Debug\netcoreapp3.1\Calculo_imc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Generation\Documents\DOTNET\Calculo_imc\Calculo_imc\obj\Debug\netcoreapp3.1\Calculo_imc.AssemblyInfoInputs.cache
+C:\Users\Generation\Documents\DOTNET\Calculo_imc\Calculo_imc\obj\Debug\netcoreapp3.1\Calculo_imc.AssemblyInfo.cs
+C:\Users\Generation\Documents\DOTNET\Calculo_imc\Calculo_imc\obj\Debug\netcoreapp3.1\Calculo_imc.csproj.CoreCompileInputs.cache
+C:\Users\Generation\Documents\DOTNET\Calculo_imc\Calculo_imc\obj\Debug\netcoreapp3.1\Calculo_imc.dll
+C:\Users\Generation\Documents\DOTNET\Calculo_imc\Calculo_imc\obj\Debug\netcoreapp3.1\Calculo_imc.pdb
+C:\Users\Generation\Documents\DOTNET\Calculo_imc\Calculo_imc\obj\Debug\netcoreapp3.1\Calculo_imc.genruntimeconfig.cache
